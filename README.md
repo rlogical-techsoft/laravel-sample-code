@@ -1,12 +1,12 @@
 # laravel-sample-code
 
-Author : Jaimin Panchal
-Company : Rlogical techsoft Private limited
-Description : Implemented this task with Laravel a web application which allows
+##Author : Jaimin Panchal
+##Company : Rlogical techsoft Private limited
+##Description : Implemented this task with Laravel a web application which allows
 users to search for Items by Item Name, Item Type and Item Maximum Price and to ask
 questions about the items found.
 
-Business requirements : 
+##Business requirements : 
 Item Types to search for must be listed in a drop-down list input. Item names must be entered
 with a text box input. Item names must be 20 symbols max length. Item Maximum Price
 (dollars and cents) must be entered in a text box input and the results must contain all Items
